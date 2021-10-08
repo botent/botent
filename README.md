@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @botent
 - 👀 I’m interested in esports and gaming
-- 🌱 I’m currently learning Django and Managing my startup
-- 💞️ I’m looking to collaborate on projects related to business and esports (well, there are not many projects to help CEOs)
+- 🌱 I’m a Django developer and love python!
+- 💞️ I’m looking to collaborate on projects related to business and esports (well, there are not many projects to help managers)
 - 📫 Tweet me @KumarPeri
 
 <!---
