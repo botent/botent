@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @botent. 
+# 👋 Hi, I’m Anil. 
 
 I am a full stack developer and a product manager from India, currently living in the UK. I build websites using Django Backend and Vue JS Frontend. 
 
