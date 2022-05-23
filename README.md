@@ -8,7 +8,7 @@ I am working on ![SwiftSkill](https://swiftskill.gg) right now which is a statis
 
 ## 🛠️ Tools and Technologies
 
-![](https://img.shields.io/badge/Frontend-VueJS-informational?style=for-the-badge&color=e94560) ![](https://img.shields.io/badge/Backend-Django-informational?style=for-the-badge&color=e94560) ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&color=e94560) ![](https://img.shields.io/badge/IDE-PyCharm_Pro-informational?style=for-the-badge&color=e94560)
+![](https://img.shields.io/badge/Frontend-VueJS-informational?style=for-the-badge&color=green) ![](https://img.shields.io/badge/Backend-Django-informational?style=for-the-badge&color=e94560) ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&color=orange) ![](https://img.shields.io/badge/IDE-PyCharm_Pro-informational?style=for-the-badge&color=yellow)
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botent" alt="Top Languages">
