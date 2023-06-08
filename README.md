@@ -4,7 +4,7 @@ I am a full stack developer and a product manager from India, currently living i
 
 ## 📝 Current Projects
 
-I am working on ![SwiftSkill](https://swiftskill.gg) right now which is a statistical and performance analysis platform for Esports.
+I am working on DayLyf (https://daylyf.com) which helps weekend warriors find cool places in and around their cities.
 
 ## 🛠️ Tools and Technologies
 
