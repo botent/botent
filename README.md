@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm botent</h1>
 <h3 align="center">Sales Engineer obsessed with data</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=botent&label=Profile%20views&color=0e75b6&style=flat" alt="botent" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=botent" alt="botent" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/periodawindsy" target="blank"><img src="https://img.shields.io/twitter/follow/periodawindsy?logo=twitter&style=for-the-badge" alt="periodawindsy" /></a> </p>
 
-- 🔭 I’m currently working on [Obsidian](https://obsidianlaunch.co)
+- 🔭 I’m currently working on [Obsidian](https://obsidianlaunch.co), [HyperDoc](https://usehyperdoc.com), and [OnwardWithMe](https://onwardwith.me)
 
 - 💬 Ask me about **Vue, Django (basically web dev)**
 
